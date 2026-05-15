@@ -139,7 +139,7 @@ muscle tissue.
 | File | Description |
 |------|-------------|
 | `README.md` | This file — full analysis documentation |
-| `Bioimaging_Colocalization_Analysis_ImageJ_JACoP.ppsx` | Original assessed presentation slides |
+| `Bioimaging_Colocalization_Analysis_ImageJ_JACoP.pptx` | Original assessed presentation slides |
 
 ---
 
